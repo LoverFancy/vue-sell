@@ -3,8 +3,8 @@ import axios from 'ts-axios-new'
 const urlMap = {
   development: '/',
   // 服务器生产地址
-  production: 'http://localhost:9001/'
-  // production: 'http://49.232.154.92:9001/'
+  // production: 'http://localhost:9001/'
+  production: 'http://104.238.128.68:9001/'
   // nginx转发的请求接口地址
   // production: 'http://ustbhuangyi.com/sell/'
 }
